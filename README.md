@@ -5,10 +5,6 @@ Users can explore countries, learn about their population, capital, region, curr
 
 ---
 
-## 🌐 Live Demo  
-🔗 **Live Website:** (Add your live URL here, e.g., https://wordonthego.netlify.app)
-
-
 ## 🚀 Overview  
 **Word on the Go** allows users to:  
 
@@ -21,13 +17,7 @@ It is ideal for travelers, students, or anyone who wants to quickly access count
 
 ---
 
-## 🛠️ Tech Stack  
-This project is built using:
 
-- **React.js** – For building interactive UI  
-- **Vite** – Fast development environment with HMR  
-- **Tailwind CSS** – Modern and responsive styling  
-- **React Router** – For routing between pages  
 
 
 ### Expanding the ESLint Configuration
@@ -40,10 +30,7 @@ Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/cr
 
 ### ✅ Explore Countries  
 - View all countries with flags and basic info  
-
-### ✅ Search & Filter  
-- Search by country name  
-- Filter by region or continent  
+ 
 
 ### ✅ Detailed Country Info  
 - Capital, population, region, currencies, languages, and more  
@@ -55,14 +42,4 @@ Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/cr
 - Built with React + Vite for fast performance and HMR  
 
 ---
-
-## 📦 Dependencies  
-
-### **Main Dependencies**
-```json
-"react": "^18.x",
-"react-dom": "^18.x",
-"tailwindcss": "^3.x",
-"postcss": "^8.x",
-"autoprefixer": "^10.x",
-"react-router-dom": "^6.x"
+"This is a normal website. I created it for my practice."
